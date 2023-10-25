@@ -50,6 +50,7 @@
                 app:layout_constraintStart_toStartOf="parent" />
 
             <Button
+                android:backgroundTint="@color/indigo_200"
                 android:id="@+id/submit"
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
